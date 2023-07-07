@@ -12,7 +12,7 @@ import { en, es, id, ar, pt, fr } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-  ['56922396080', 'N4mecit4Bot', true],  
+  ['56955115804', 'N4mecit4Bot', true],  
   ['51955095498', 'Jair Owner', true],
   ['51933348947', 'Jair Owner 2', true],
   ['56954390663', 'GeriPium', true],
